@@ -1,0 +1,6 @@
+public class Text{
+	public static void main(String args[]){
+		Systom.out.println("chenliubin222 shi zhen de shuai");
+	}
+
+}
